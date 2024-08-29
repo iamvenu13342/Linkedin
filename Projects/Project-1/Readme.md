@@ -1,4 +1,4 @@
-<h1>Projects</h1>
+<h1>Project-1</h1>
 
 <h2>Project Title: Automated Multi-Tier Web Application Deployment Using Vagrant and Advanced Stack</h2>
 
