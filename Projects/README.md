@@ -1,4 +1,4 @@
-### **Step 3: Showcase the Project on LinkedIn**
+<h1>Projects</h1>
 
 **Project Title**: **Automated Multi-Tier Web Application Deployment Using Vagrant and Advanced Stack**
 
