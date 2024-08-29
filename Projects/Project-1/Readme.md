@@ -1,6 +1,6 @@
 <h1>Projects</h1>
 
-**Project Title**: **Automated Multi-Tier Web Application Deployment Using Vagrant and Advanced Stack**
+<h2>**Project Title**: **Automated Multi-Tier Web Application Deployment Using Vagrant and Advanced Stack**</h2>
 
 **Description**:
 Designed and deployed a multi-tier web application leveraging a robust stack that includes Vagrant for environment management, MySQL and MongoDB for databases, NGINX and Apache Tomcat for web and application serving, Memcached for caching, RabbitMQ for message queuing, and VSCode for development. The project was automated using Vagrant to provision and configure multiple virtual machines, demonstrating end-to-end full-stack development and DevOps practices.
