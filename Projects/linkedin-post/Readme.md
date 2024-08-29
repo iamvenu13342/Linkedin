@@ -19,11 +19,10 @@ This project leverages a cutting-edge stack including Vagrant, MySQL, MongoDB, N
 
 🔹 **Complete Automation**: Automated the setup, configuration, and deployment process, making it a breeze to reproduce the environment and deploy the application.
 
-🔗 [GitHub Repository](#)
-
-🔗 [Live Demo](#)
 
 This project reflects my passion for full-stack development, DevOps, and automation, and I'm thrilled to share it with the LinkedIn community. Feel free to check it out and leave your thoughts!
 
 #Vagrant #DevOps #FullStackDevelopment #Automation #WebDevelopment #MySQL #MongoDB #NGINX #ApacheTomcat #Memcached #RabbitMQ #LinkedInProjects
+
+
 
