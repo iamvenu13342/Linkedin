@@ -1,6 +1,7 @@
 
 <h1>LinkedIn Post Example</h1>
 
+<h1>Project-1</h1>
 
 🚀 **Project Showcase: Automated Multi-Tier Web Application Deployment Using Vagrant and Advanced Stack** 🚀
 
@@ -26,6 +27,3 @@ This project reflects my passion for full-stack development, DevOps, and automat
 
 #Vagrant #DevOps #FullStackDevelopment #Automation #WebDevelopment #MySQL #MongoDB #NGINX #ApacheTomcat #Memcached #RabbitMQ #LinkedInProjects
 
----
-
-This LinkedIn post will effectively showcase your technical skills and the complexity of your project, making it appealing to potential employers or collaborators.
