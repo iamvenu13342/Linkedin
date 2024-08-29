@@ -1,5 +1,5 @@
 
-🚀 **Project Showcase: Lift and Shift Migration of Multi-Tier Web Application to AWS** 🚀
+<h1>🚀 **Project Showcase: Lift and Shift Migration of Multi-Tier Web Application to AWS** 🚀</h1>
 
 I'm thrilled to share my recent project where I executed a **Lift and Shift** migration of a multi-tier web application to AWS. This project involved migrating a complex stack, including:
 
